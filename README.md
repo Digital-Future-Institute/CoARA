@@ -25,10 +25,9 @@ The toolkit explicitly discourages the inappropriate use of journal- and publica
 
 The toolkit provides:
 
-- Interactive training guides
-- Online learning modules
-- Real-world case studies
-- Video-based learning resources
+- Training guides
+- Real-world examples
+- Multimedia learning resources
 
 These materials are designed to build both **individual and institutional capacity** in open science and responsible research assessment.
 
