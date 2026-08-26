@@ -77,7 +77,7 @@ These resources can be easily integrated into LibGuides, OLEs, and course websit
 Librarians and doctoral training providers can play a key role in embedding these resources within research skills development programmes.
 
 - **Integrate into training programmes**: Use the materials in workshops, seminars, and induction sessions on open research, research data management (RDM), and reproducibility.
-- **Develop scaffolded learning**: Introduce concepts progressively (e.g. transparency ÔåÆ version control ÔåÆ reproducibility) across doctoral training pathways.
+- **Develop scaffolded learning**: Introduce concepts progressively (e.g. transparency → version control → reproducibility) across doctoral training pathways.
 - **Support skills development**: Use the workflows and examples to teach practical skills such as data sharing, code documentation, and FAIR practices.
 - **Customise for disciplines**: Adapt examples and case studies to reflect disciplinary norms and requirements.
 - **Promote open scholarship**: Encourage researchers to adopt open practices early and consistently throughout their projects.
@@ -106,6 +106,7 @@ Tools like Copilot and ChatGPT have been used to synthesise text, organise conte
 ## **Funding Acknowledgement**
 
 This project has received funding from the **European Union's Horizon Europe Research and Innovation Programme** under **Grant Agreement No. 101131826**.
+
 
 
 
