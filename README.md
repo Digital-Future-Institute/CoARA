@@ -1,4 +1,4 @@
-# Open Science OER Toolkit & Open Research Assessment
+﻿# Open Science OER Toolkit & Open Research Assessment
 
 ## Project Overview
 
@@ -69,14 +69,15 @@ By fostering responsible, inclusive, and transparent assessment practices, the p
 
 ## Funding Acknowledgement
 
-This project has received funding from the **European Union’s Horizon Europe Research and Innovation Programme** under Grant Agreement No. **101131826**.
+This project has received funding from the **European Unionâ€™s Horizon Europe Research and Innovation Programme** under Grant Agreement No. **101131826**.
 
 ## Towards Open Science
 
-The Open Science OER Toolkit contributes to building a more responsible, inclusive, and transparent research ecosystem — one that values quality, openness, collaboration, and diverse forms of scholarly contribution.
+The Open Science OER Toolkit contributes to building a more responsible, inclusive, and transparent research ecosystem â€” one that values quality, openness, collaboration, and diverse forms of scholarly contribution.
 
 ## Guides
 
 The full guide content is available in the project Wiki:
 
 https://github.com/Digital-Future-Institute/CoARA/wiki
+

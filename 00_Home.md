@@ -15,7 +15,7 @@ This project aims to develop an **Open Educational Resource (OER) toolkit** to s
 
 At its core, the project promotes the recognition of **diverse research contributions and career paths**, prioritising **qualitative evaluation** with **peer review** as a central practice. It explicitly discourages the inappropriate use of journal- and publication-based metrics, such as the **Journal Impact Factor (JIF)** and **h-index**, in line with international reform efforts.
 
-These guides are being developed under the principles of [Open Science](https://www.cos.io/open-science) and [Open Education](https://oro.open.ac.uk/91847/1/oep.pdf) by curating, adapting, and translating existing guidance to enrich content and build capacity in Open Science through Open Educational Resources (OER), as promoted in the [UNESCO Recommendation on Open Science (2021) ÔÇö 19-D](https://unesdoc.unesco.org/ark:/48223/pf0000379949) and the [UNESCO OER Dubai Declaration (2024), Area 1: Capacity Building](https://unesdoc.unesco.org/ark:/48223/pf0000392271.locale=en)
+These guides are being developed under the principles of [Open Science](https://www.cos.io/open-science) and [Open Education](https://oro.open.ac.uk/91847/1/oep.pdf) by curating, adapting, and translating existing guidance to enrich content and build capacity in Open Science through Open Educational Resources (OER), as promoted in the [UNESCO Recommendation on Open Science (2021) ' 19-D](https://unesdoc.unesco.org/ark:/48223/pf0000379949) and the [UNESCO OER Dubai Declaration (2024), Area 1: Capacity Building](https://unesdoc.unesco.org/ark:/48223/pf0000392271.locale=en)
 
 ## What the Toolkit Includes
 
@@ -38,7 +38,7 @@ The OER toolkit is intentionally designed for **scalability and adaptability**, 
 
 ## COARA 
 
-This initiative directly supports **CoARAÔÇÖs commitment to reforming research assessment** and aligns with the **UNESCO Recommendation on Open Science**. By fostering responsible, inclusive, and transparent assessment practices, the toolkit contributes to strengthening institutional readiness for **open science mandates** and long-term research culture change.
+This initiative directly supports **CoARA's commitment to reforming research assessment** and aligns with the **UNESCO Recommendation on Open Science**. By fostering responsible, inclusive, and transparent assessment practices, the toolkit contributes to strengthening institutional readiness for **open science mandates** and long-term research culture change.
 
 ## UNESCO Recommendation on Open Science
 ### IV. Investing in Human Resources, Training, Education, Digital Literacy and Capacity Building for Open Science
@@ -89,7 +89,7 @@ Atenas, J., Yule, C., & Thompson, C. (2026). Open Science OER Toolkit & Open Res
 
 ## Licence and Reuse
 
-Unless otherwise stated in specific images or videos, all resources in this Open Educational Resources (OER) toolkitÔÇöincluding content, tables, and diagramsÔÇöare licensed under a **Creative Commons Attribution (CC BY)** licence.
+Unless otherwise stated in specific images or videos, all resources in this Open Educational Resources (OER) toolkit'including content, tables, and diagrams'are licensed under a **Creative Commons Attribution (CC BY)** licence.
 
 Users are encouraged to:
 - **Reuse** the materials in their own teaching and training  
@@ -101,5 +101,6 @@ Please ensure appropriate **attribution is provided** when reusing or adapting t
 
 ## **Funding Acknowledgement**
 
-This project has received funding from the **European UnionÔÇÖs Horizon Europe Research and Innovation Programme** under **Grant Agreement No. 101131826**.
+This project has received funding from the **European Union's Horizon Europe Research and Innovation Programme** under **Grant Agreement No. 101131826**.
+
 
