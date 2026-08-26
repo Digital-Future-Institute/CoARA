@@ -97,12 +97,11 @@ Users are encouraged to:
 - **Translate** resources into other languages  
 - **Contextualise** materials for specific disciplines or audiences
 
+Please ensure appropriate **attribution is provided** when reusing or adapting these resources.
+
 ## Use of AI - Disclaimer
 
 Tools like Copilot and ChatGPT have been used to synthesise text, organise content such as further readings, bulleted lists or tables, fix syntax errors and code, and to develop or enhance workflows and diagrams, however, all the content has been verified by at least one member of the team. 
-
-
-Please ensure appropriate **attribution is provided** when reusing or adapting these resources.
 
 ## **Funding Acknowledgement**
 
