@@ -1,6 +1,6 @@
 ﻿# Open Science OER Toolkit & Open Research Assessment 
 
-### Guides and content Developed by [Dr Javiera Atenas](https://www.uos.ac.uk/people/dr-javiera-atenas/), Charlotte Yule and Alex Lewington, University of Suffolk and [Dr Carol Thompson](https://www.beds.ac.uk/howtoapply/departments/school-of-education-and-english/staff/carol-thompson/), University of Bedfordshire.
+### Guides and content Developed by [Dr Javiera Atenas](https://www.uos.ac.uk/people/dr-javiera-atenas/), Charlotte Yule, [Dr Salman Ahmed](https://orcid.org/0000-0001-8636-6991) and Alex Lewington, University of Suffolk and [Dr Carol Thompson](https://www.beds.ac.uk/howtoapply/departments/school-of-education-and-english/staff/carol-thompson/), University of Bedfordshire.
 
 ![COARA](https://graspos.eu/templates/yootheme/cache/af/coARA-logo-aff8b8ec.webp)
 ![COARA BOOST](https://www.coara.org/wp-content/uploads/2024/05/BOOST-800-x-500-px.png)
