@@ -5,7 +5,7 @@
 ![COARA](https://graspos.eu/templates/yootheme/cache/af/coARA-logo-aff8b8ec.webp)
 ![COARA BOOST](https://www.coara.org/wp-content/uploads/2024/05/BOOST-800-x-500-px.png)
 
-This project has received funding from the European UnionÔÇÖs Horizon Europe Research and Innovation programme under Grant Agreement No. 101131826.
+This project has received funding from the European Union Horizon Europe Research and Innovation programme under Grant Agreement No. 101131826.
 
 If you would like to contribute to this project and have guides, case studies, or information to share, please contact Javiera Atenas at [j.atenas@uos.ac.uk](mailto:j.atenas@uos.ac.uk).
 
