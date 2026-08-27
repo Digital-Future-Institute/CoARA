@@ -91,6 +91,7 @@ We are especially grateful for participating in the interviews and for providing
 - Ignasi Labastida
 - James Baker
 - Lautaro Matas
+- Leo Havemann
 - Maya Prince
 - Pierre Collett
 - Ricardo Hartley
