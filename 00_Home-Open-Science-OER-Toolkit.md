@@ -108,5 +108,24 @@ Tools like Copilot and ChatGPT have been used to synthesise text, organise conte
 This project has received funding from the **European Union's Horizon Europe Research and Innovation Programme** under **Grant Agreement No. 101131826**.
 
 
+## Acknowledgements
+
+We would like to sincerely thank the colleagues, collaborators, and participants whose expertise, feedback, and support contributed to the development of this project. Their insights, generosity, and engagement have been invaluable throughout the process.
+
+- Barbara Class
+- Carmen Reverte
+- David Oliva Uribe
+- Emma Bond
+- Ignasi Labastida
+- James Baker
+- Lautaro Matas
+- Leo Havemann
+- Maya Prince
+- Pierre Collett
+- Ricardo Hartley
+- Soledad Quiroz
+- Vincent Larivière
+- Wouter Schallier
+- Zeynep Varolgu
 
 
