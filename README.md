@@ -80,5 +80,22 @@ The full guide content is available in the project Wiki:
 
 https://github.com/Digital-Future-Institute/CoARA/wiki
 
+## Acknowledgements
 
+We are especially grateful for participating in the interviews and for providing valuable feedback, insights, and support throughout the project. Their contributions helped shape and strengthen the work presented here.
+
+- Barbara Class
+- Carmen Reverte
+- David Oliva Uribe
+- Emma Bond
+- Ignasi Labastida
+- James Baker
+- Lautaro Matas
+- Maya Prince
+- Pierre Collett
+- Ricardo Hartley
+- Soledad Quiroz
+- Vincent Larivière
+- Wouter Schallier
+- Zeynep Varolgu
 
