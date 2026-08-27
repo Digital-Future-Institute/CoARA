@@ -72,7 +72,7 @@ This project has received funding from the **European Unionâ€™s Horizon Eur
 
 ## Towards Open Science
 
-The Open Science OER Toolkit contributes to building a more responsible, inclusive, and transparent research ecosystem â€” one that values quality, openness, collaboration, and diverse forms of scholarly contribution.
+The Open Science OER Toolkit contributes to building a more responsible, inclusive, and transparent research ecosystem that values quality, openness, collaboration, and diverse forms of scholarly contribution.
 
 ## Guides
 
