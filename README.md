@@ -78,7 +78,7 @@ The Open Science OER Toolkit contributes to building a more responsible, inclusi
 
 The full guide content is available in the project Wiki:
 
-https://github.com/Digital-Future-Institute/CoARA/wiki
+[https://github.com/Digital-Future-Institute/CoARA/wiki](https://github.com/Digital-Future-Institute/CoARA)
 
 ## Acknowledgements
 
